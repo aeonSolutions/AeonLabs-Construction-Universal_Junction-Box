@@ -1,10 +1,5 @@
-# AeonLabs-Construction-Universal_Junction-Box
-AeonLabs Construction Universal Junction-Box
-
-
- #LDAD PCB for a direct fit on [Legrand Plexo](https://www.legrand.com/ecatalogue/RESIDENTIAL-BUILDINGS-AND-HOTEL-EQUIPMENT/weatherproof-wiring-accessories-and-other-installation-equipment:5/weatherproof-wiring-accessories-and-boxes:1/plexo-boxes-ip-55-ik-07-with-direct-entry-membrane-glands-650-c:12/square-boxes:2/65-x-) Junction Box with 65x65x40xmm.
-
-Features WIFI, BLE & Bluetooth 5.x connectivity and can connect up to 10 sensors. This PCB is powered with any 220V AC line. If wireless is not possible this PCB is able to connect, this new LDAD for Legrand , has already built in CANBUS Network connectivity compatible with ISO 11898-2 for data transmission (and receive) up to 1Mbit/s. Ready to deploy using [Home Assistant](https://www.home-assistant.io/) tools! 
+# AeonLabs Construction Universal Junction Box
+Smart Home Light Switch for home automation. Made to fit any universal junction box. Feature Network On/OFF switch. Up to 2 sensors. Connectivity Home CANBus; WiFi, Bluetooth, BLE. This PCB is powered with any 220V AC line.  This LDAD for universal juntion box, has already built in CANBUS Network connectivity compatible with ISO 11898-2 for data transmission (and receive) up to 1Mbit/s. Ready to deploy using [Home Assistant](https://www.home-assistant.io/) tools! 
 
 The perfect #PCB for managing construction site works since early construction stages, while, for instance, concreting structural elements. Later on can be left and integrated with any home automation system for active structural and environmental monitoring.
 
@@ -12,8 +7,8 @@ Simple and compatible with existing tools and technologies. Can't get better tha
 
 *Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
 
-![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs_LDAD_for_Legrand_Plexo.svg)
-![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-LDAD-for-Legrand-Plexo/total?style=for-the-badge)
+![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs_Construction_Universal_Junction_Box.svg)
+![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-Construction-Universal_Junction-Box/total?style=for-the-badge)
 
 ## Revisions
 - revision 1.1
@@ -39,8 +34,8 @@ The price starts at 30eur plus postage fees.
 
 #### Be supportive of my dedication and work towards technology education and buy me a coffee. Link below.
 
-![](https://github.com/aeonSolutions/AeonLabs-LDAD-for-Legrand-Plexo/blob/main/designs/pcb_front.png)
-![](https://github.com/aeonSolutions/AeonLabs-LDAD-for-Legrand-Plexo/blob/main/designs/pcb_back.png)
+![](https://github.com/aeonSolutions/AeonLabs-Construction-Universal_Junction-Box/blob/main/designs/pcb_front.png)
+![](https://github.com/aeonSolutions/AeonLabs-Construction-Universal_Junction-Box/blob/main/designs/pcb_back.png)
 
 ________________________________________________________________________________________________________________
 
@@ -55,9 +50,9 @@ ________________________________________________________________________________
 - This PCB connects with the DS18b20 Temperature sensor : https://s.click.aliexpress.com/e/_AWDAMr 
 
 ## PCB Enclosure
-The enclosure for this PCB can be bought online by searching for [Legrand Plexo](https://www.legrand.com/ecatalogue/RESIDENTIAL-BUILDINGS-AND-HOTEL-EQUIPMENT/weatherproof-wiring-accessories-and-other-installation-equipment:5/weatherproof-wiring-accessories-and-boxes:1/plexo-boxes-ip-55-ik-07-with-direct-entry-membrane-glands-650-c:12/square-boxes:2/65-x-) .
+The enclosure for this PCB can be bought online by searching for [Univerdal Junction Box 60x60]() .
 
-![](https://github.com/aeonSolutions/AeonLabs-LDAD-for-Legrand-Plexo/blob/main/designs/enclosure.jpg)
+![](https://github.com/aeonSolutions/AeonLabs-Construction-Universal_Junction-Box/blob/main/designs/pcb.jpg)
 
 ## Firmware Download 
 one can use the PCB in the repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to program the ESP32 WROOM32 MCU on this PCB.
@@ -74,7 +69,7 @@ if you like to own a copy of this work, you can buy it as a NFT or Ethereum. con
 
 =====================================================================================
 ### Share this PCB board files
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fjitpack.io%2F&ref_src=twsrc%5Etfw&text=Version%201.0%20of%20AeonLabs-LDAD-for-Legrand-Plexo%20is%20now%20available%20on%20&tw_p=tweetbutton&url=http%3A%2F%2Fgithub.com%2FaeonSolutions%2FAeonLabs-LDAD-for-Legrand-Plexo)
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fjitpack.io%2F&ref_src=twsrc%5Etfw&text=Version%201.0%20of%20AAeonLabs-Construction-Universal_Junction-Box%20is%20now%20available%20on%20&tw_p=tweetbutton&url=http%3A%2F%2Fgithub.com%2FaeonSolutions%2FAeonLabs-Construction-Universal_Junction-Box)
 
 <a href="https://stackexchange.com/users/18907312/miguel-silva"><img src="https://stackexchange.com/users/flair/18907312.png" width="208" height="58" alt="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
