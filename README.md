@@ -10,6 +10,16 @@ Simple and compatible with existing tools and technologies. Can't get better tha
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs_Construction_Universal_Junction_Box.svg)
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-Construction-Universal_Junction-Box/total?style=for-the-badge)
 
+### Status
+![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_yellow.png)  Powers up. Waiting to be tested.
+
+If you already tested this PCB send me a message. Thank you
+
+### Status
+![](https://github.com/aeonSolutions/AeonLabs-Construction-Universal_Junction-Box/blob/main/designs/working_yellow.png)  Powers up. Waiting to be tested.
+
+If you already tested this PCB send me a message. Thank you
+
 ## Revisions
 - revision 1.1
    - added 220V AC Fuse 
