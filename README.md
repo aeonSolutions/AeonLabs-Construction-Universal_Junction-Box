@@ -16,7 +16,7 @@ Simple and compatible with existing tools and technologies. Can't get better tha
 If you already tested this PCB send me a message. Thank you
 
 ### Status
-![](https://github.com/aeonSolutions/AeonLabs-Construction-Universal_Junction-Box/blob/main/designs/working_yellow.png)  Powers up. Waiting to be tested.
+![](https://github.com/aeonSolutions/AeonLabs-Construction-Universal_Junction-Box/blob/main/designs/working_yellow.png)  waiting for first batch to be tested.
 
 If you already tested this PCB send me a message. Thank you
 
