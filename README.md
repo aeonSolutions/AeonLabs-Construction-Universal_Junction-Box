@@ -1,3 +1,8 @@
+<p align="right">
+ <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
+Last update: 30-11-2023
+</p>
+
 # AeonLabs Construction Universal Junction Box
 Smart Home Light Switch for home automation. Made to fit any universal junction box. Feature Network On/OFF switch. Up to 2 sensors. Connectivity Home CANBus; WiFi, Bluetooth, BLE. This PCB is powered with any 220V AC line.  This LDAD for universal junction box, has already built in CANBUS Network connectivity compatible with ISO 11898-2 for data transmission (and receive) up to 1Mbit/s. Ready to deploy using [Home Assistant](https://www.home-assistant.io/) tools! 
 
@@ -65,21 +70,46 @@ The enclosure for this PCB can be bought online by searching for [Univerdal Junc
 ## Firmware Download 
 one can use the PCB in the repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to program the ESP32 WROOM32 MCU on this PCB.
 
-______________________________________________________________________________________________________________________________
+<br>
+
+## Author
+
+You can get in touch with me on my LinkedIn Profile:
+
+#### Miguel Tomas
+
+[![LinkedIn Link](https://img.shields.io/badge/Connect-Miguel--Tomas-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect)](https://www.linkedin.com/in/migueltomas/)
+
+You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-Miguel--Tomas-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/aeonSolutions)
+
+<br>
+
+### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
+The PCB Desgin Files i provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
+
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />](https://www.buymeacoffee.com/migueltomas)
+
+<br />
+
+### Make a donation on Paypal
+Make a donation on paypal and get a TAX refund*.
+
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/paypal_small.png)](http://paypal.me/mtpsilva)
+
+<br>
+
+### Support all these open hardware projects and become a patreon  
+Liked any of my PCB KiCad Designs? Help and Support my open work to all by becomming a LDAD Patreon.
+In return I will give a free PCB design in KiCad to all patreon supporters. To learn more go to patreon.com. Link below.
+
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/patreon_small.png)](https://www.patreon.com/ldad)
+
+#
 
 ### License
-2022 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
-https://creativecommons.org/licenses/by-nc-sa/4.0/
+Before proceeding to download any of AeonLabs software solutions for open-source development and/or PCB hardware electronics solutions for open-hardware development make sure you are choosing the right license for your project. See [AeonLabs Solutions for Open Hardware & Source Development](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/AeonLabs-Solutions-for-Open-Hardware-&-Source-Development) for more information. 
 
-### Own a copy of this work
-if you like to own a copy of this work, you can buy it as a NFT or Ethereum. contact me for more details at mtpsilva@gmail.com
-
-=====================================================================================
-### Share this PCB board files
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fjitpack.io%2F&ref_src=twsrc%5Etfw&text=Version%201.0%20of%20AAeonLabs-Construction-Universal_Junction-Box%20is%20now%20available%20on%20&tw_p=tweetbutton&url=http%3A%2F%2Fgithub.com%2FaeonSolutions%2FAeonLabs-Construction-Universal_Junction-Box)
-
-<a href="https://stackexchange.com/users/18907312/miguel-silva"><img src="https://stackexchange.com/users/flair/18907312.png" width="208" height="58" alt="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 ### Be supportive of my dedication and work towards technology education and buy me a coffee
 
